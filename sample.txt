@@ -1,1 +1,2 @@
 this is a simaple to get sshdir
+make changes on the remote repository which will pulled to the local repo
