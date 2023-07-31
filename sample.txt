@@ -10,3 +10,5 @@ Stalingrad was strategically important to both sides as a major industrial and t
 On 19 November, the Red Army launched Operation Uranus, a two-pronged attack targeting the Romanian armies protecting the 6th Army's flanks.[26] The Axis flanks were overrun and the 6th Army was cut off and surrounded in the Stalingrad area. Adolf Hitler was determined to hold the city at all costs and forbade the 6th Army from trying a breakout; instead, attempts were made to supply it by air and to break the encirclement from the outside. The Soviets were successful in preventing the Germans from delivering enough supplies through the air to the trapped Axis forces. Nevertheless, heavy fighting continued for another two months. On 2 February 1943, the German 6th Army, having exhausted their ammunition and food, finally capitulated after over five months of fighting, making it the first of Hitler's field armies to surrender in World War II.[27]
 
 The Soviet victory is commemorated in Russia as the Day of Military Honour.
+
+This line has been added in replit after importing the repo.
